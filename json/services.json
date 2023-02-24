@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Web Develop",
+        "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti est sunt iste officiis facere dolorem odit nam ipsam placeat necessitatibus commodi, perferendis corporis fugit rem nulla. Impedit sit nam soluta.",
+        "btn":"Learn More"
+    },
+    {
+        "title":"Problem Solving",
+        "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti est sunt iste officiis facere dolorem odit nam ipsam placeat necessitatibus commodi, perferendis corporis fugit rem nulla. Impedit sit nam soluta.",
+        "btn":"Learn More"
+    },
+    {
+        "title":"Erp Develop",
+        "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti est sunt iste officiis facere dolorem odit nam ipsam placeat necessitatibus commodi, perferendis corporis fugit rem nulla. Impedit sit nam soluta.",
+        "btn":"Learn More"
+    },
+    {
+        "title":"Application Develop",
+        "body":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti est sunt iste officiis facere dolorem odit nam ipsam placeat necessitatibus commodi, perferendis corporis fugit rem nulla. Impedit sit nam soluta.",
+        "btn":"Learn More"
+    }
+]
